@@ -1,0 +1,64 @@
+
+nav{
+    width: 200px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+.box{
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-around;
+    width: 1520px;
+    height: 20px;
+}
+.box a{
+    text-decoration: none;
+}
+body{
+    background-image: url(./image\ 5\ \(1\).png);
+}
+ main button :hover {
+     background-color: yellow;
+     color: black;
+}
+main button{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-top: 300px;
+    margin-left: 20px;
+    width: 300px;
+    height: 40px;
+}
+main nav{
+    margin-left: 550px;
+    display: flex;
+    justify-content: space-around;
+}
+.iki{
+    background: #F1A90054;
+    margin-top: 40px;
+    height: 40px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+}
+footer{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 130px;
+}
+footer nav{
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
